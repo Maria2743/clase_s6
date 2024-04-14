@@ -2,7 +2,8 @@
   "name": "clase_s6",
   "version": "1.0.0",
   "description": "1. Ejecutar el comando inicializar el proyecto\r `npm init -y`\r 2. Para poder usarlo, ejecutar el comando npm install\r `npm install`",
-  "main": "index.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
